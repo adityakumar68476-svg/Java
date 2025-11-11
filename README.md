@@ -1,12 +1,12 @@
 #ADITYA KUMAR
 #ENG24AM0130
 
-Age.java is for prompt user to enter birth year and current year and then calculate age.
-AreaCircle.java is for takinf radius as input from user and then print the area of a circle (pi value is stored in a variable).
-ArithmeticOperation.java is for performing Arithmatic Operations such as Addition(+), Substraction(-),Multiplication(*),Division(/).
-Array.java is for an array of size 10 and stores squares of the numbers to this array. and prints any one of them.
-ArrayEvenOdd.java is for taking size and elements from user and count the number of Even and Odd numbers.
-ArrayInputSumAvg.java is for taking size and elements from user , display the elements , Sum of the Elements and Average of the Elements.
+1 Age.java is for prompt user to enter birth year and current year and then calculate age.
+2 AreaCircle.java is for takinf radius as input from user and then print the area of a circle (pi value is stored in a variable).
+3 ArithmeticOperation.java is for performing Arithmatic Operations such as Addition(+), Substraction(-),Multiplication(*),Division(/).
+4 Array.java is for an array of size 10 and stores squares of the numbers to this array. and prints any one of them.
+5 ArrayEvenOdd.java is for taking size and elements from user and count the number of Even and Odd numbers.
+6 ArrayInputSumAvg.java is for taking size and elements from user , display the elements , Sum of the Elements and Average of the Elements.
 ArraySearch.java is for Searching a element from the Array and print the index number.
 BitwiseOperation.java is for performing Bitwise Operations such as AND(&), OR(|),XOR(^),NOT(~), Left Shift(<<), Right Shift(>>), Unsigned Shift(<<<,>>>) .
 ConditionalOperation.java is for performing of an example of Ternary Operator for Descision Making ( condition? True:False) .
